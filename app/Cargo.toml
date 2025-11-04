@@ -1,0 +1,24 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+
+api = {path = "../crates/api"}
+db = {path = "../crates/db"}
+models = {path = "../crates/models"}
+
+
+alloy = { workspace = true }
+alloy-sol-types = { workspace = true }
+alloy-contract = { workspace = true }
+alloy-dyn-abi = { workspace = true }
+tokio = { workspace = true }
+axum = { workspace = true }
+tower-http = { workspace = true }
+sqlx = { workspace = true }
+eyre = { workspace = true }
+dotenv = { workspace = true }
+async-trait = { workspace = true }
+serde = { workspace = true }

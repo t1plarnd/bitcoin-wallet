@@ -1,6 +1,0 @@
-
-indexing-serv/target/
-indexing-serv/.sqlx
-indexing-serv/.sqlx/
-*.env
-.DS_Store

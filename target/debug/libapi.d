@@ -1,0 +1,1 @@
+/home/dysha/bitcoin-wallet/target/debug/libapi.rlib: /home/dysha/bitcoin-wallet/crates/api/src/lib.rs /home/dysha/bitcoin-wallet/crates/db/src/lib.rs /home/dysha/bitcoin-wallet/crates/models/src/lib.rs
